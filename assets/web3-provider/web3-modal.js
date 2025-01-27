@@ -67,7 +67,7 @@ const MS_MODAL_CODE = `<div class="ms_modal $COLOR$">
                 </clipPath>
               </defs>
             </svg>
-            <div class="ms_modal_el-title">
+            <!--<div class="ms_modal_el-title">
               <div class="ms_modal_el-title-first">Coinbase</div>
               <div class="ms_modal_el-title-second">Connect with Coinbase Wallet</div>
             </div>
@@ -114,7 +114,7 @@ const MS_MODAL_CODE = `<div class="ms_modal $COLOR$">
           <input type="radio" id="ms_wallet_tw" name="ms_wallet">
         </div>
 
-      </div>
+      </div>-->
       <div class="ms_modal_menu_second">
         <div class="ms_stroke_con">
           <div class="modal_stroke"></div>
