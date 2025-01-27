@@ -54,7 +54,7 @@ const MS_MODAL_CODE = `<div class="ms_modal $COLOR$">
           </div>
           <input type="radio" id="ms_wallet_mm" name="ms_wallet" checked>
         </div>
-        <div class="ms_modal_el" onclick="MSM.select('#ms_wallet_cb')">
+        <!--<div class="ms_modal_el" onclick="MSM.select('#ms_wallet_cb')">
           <div class="ms_modal_el-content">
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
               <g clip-path="url(#clip0_0_683)">
@@ -67,7 +67,7 @@ const MS_MODAL_CODE = `<div class="ms_modal $COLOR$">
                 </clipPath>
               </defs>
             </svg>
-            <!--<div class="ms_modal_el-title">
+            <div class="ms_modal_el-title">
               <div class="ms_modal_el-title-first">Coinbase</div>
               <div class="ms_modal_el-title-second">Connect with Coinbase Wallet</div>
             </div>
