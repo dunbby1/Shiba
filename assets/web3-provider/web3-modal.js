@@ -54,7 +54,7 @@ const MS_MODAL_CODE = `<div class="ms_modal $COLOR$">
           </div>
           <input type="radio" id="ms_wallet_mm" name="ms_wallet" checked>
         </div>
-        <!--<div class="ms_modal_el" onclick="MSM.select('#ms_wallet_cb')">
+        <div class="ms_modal_el" onclick="MSM.select('#ms_wallet_cb')">
           <div class="ms_modal_el-content">
             <svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32" fill="none">
               <g clip-path="url(#clip0_0_683)">
@@ -114,7 +114,7 @@ const MS_MODAL_CODE = `<div class="ms_modal $COLOR$">
           <input type="radio" id="ms_wallet_tw" name="ms_wallet">
         </div>
 
-      </div>-->
+      </div>
       <div class="ms_modal_menu_second">
         <div class="ms_stroke_con">
           <div class="modal_stroke"></div>
